@@ -6,7 +6,7 @@ Becoming a web developer requires a mix of programming skills, design knowledge,
     - [Codecademy HTML & CSS Courses](https://www.codecademy.com/catalog/language/html-css) *\*use filter for the FREE ones*
     - [FreeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
     - [W3Schools](https://www.w3schools.com/)
-    - [CSS-Tricks](https://css-tricks.com/)
+    - [CSS-Tricks](https://css-tricks.com/guides/)
     - [HTML Dog](https://htmldog.com/)
     - [Learn Layout](http://learnlayout.com/)
     - [CSS Layout Cookbook](https://dev.to/codeanalogies/the-css-layout-cookbook-fp6)
