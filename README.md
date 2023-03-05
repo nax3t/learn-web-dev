@@ -1,7 +1,8 @@
 Becoming a web developer requires a mix of programming skills, design knowledge, and industry-specific practices. Here is an outline of topics one can learn to get their first job as a web developer:
 
 1. HTML and CSS - These are the foundational languages for web development. HTML is used for creating the structure and content of a web page, while CSS is used for styling and visual design. 
-    - [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+    - [MDN HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+    - [MDN CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
     - [Codecademy](https://www.codecademy.com/learn/learn-html-css)
     - [FreeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/)
     - [W3Schools](https://www.w3schools.com/)
