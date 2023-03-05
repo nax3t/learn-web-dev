@@ -9,7 +9,8 @@ Becoming a web developer requires a mix of programming skills, design knowledge,
     - [CSS-Tricks](https://css-tricks.com/guides/)
     - [HTML Dog](https://htmldog.com/)
     - [Learn Layout](http://learnlayout.com/)
-    - [CSS Layout Cookbook](https://dev.to/codeanalogies/the-css-layout-cookbook-fp6)
+    - [Flexbox Froggy](http://flexboxfroggy.com/)
+    - [Grid Garden](https://cssgridgarden.com/)
     - [CSS Zen Garden](http://www.csszengarden.com/)
 
 
