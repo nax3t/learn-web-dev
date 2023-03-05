@@ -1,3 +1,5 @@
+# Learn Web Development in 2023
+
 Becoming a web developer requires a mix of programming skills, design knowledge, and industry-specific practices.
 Here is an outline of topics (resources included) one can learn to get their first job as a web developer:
 
