@@ -15,12 +15,14 @@ Here is an outline of topics (resources included) one can learn to get their fir
     - [Flexbox Froggy](http://flexboxfroggy.com/)
     - [Grid Garden](https://cssgridgarden.com/)
     - [CSS Zen Garden](http://www.csszengarden.com/)
+    - [Modern Css Solutions](https://moderncss.dev)
 
 
 2. JavaScript - This is the programming language used to create interactive and dynamic web pages. It is also used for back-end development with Node.js.
 
    - Eloquent JavaScript by Marijn Haverbeke is a well-regarded introduction to JavaScript.
    - FreeCodeCamp has a comprehensive JavaScript curriculum with interactive exercises and projects.
+   - [The Modern Javascript](https://javascript.info)
 
 3. Responsive Design - With the increasing use of mobile devices, web developers need to be able to create websites that look good and function well on a variety of screen sizes.
 
@@ -45,6 +47,7 @@ Here is an outline of topics (resources included) one can learn to get their fir
 
    - RESTful API Design by Leonard Richardson and Mike Amundsen is a comprehensive guide to building and designing RESTful APIs.
    - Postman is a popular tool for testing and developing APIs.
+   - [Making your first REST API](https://www.youtube.com/watch?v=fgTGADljAeg)
 
 8. Testing and Debugging - These are critical skills for ensuring that web applications are reliable and free of errors.
 
@@ -55,3 +58,15 @@ Here is an outline of topics (resources included) one can learn to get their fir
 
    - Travis CI is a popular continuous integration service.
    - Heroku is a popular platform for deploying web applications.
+ 
+10.Practicing what you've learned. & Beginner project ideas.
+- [Github Repo of Project Ideas](https://github.com/florinpop17/app-ideas)
+- [Coding Game](https://www.codingame.com)
+- [Exercism](https://exercism.org)
+- [Frontend Project Challanges](https://devchallenges.io)
+- [Real world challenges from companies](https://github.com/felipefialho/frontend-challenges)
+- [Frontend Practice](https://www.frontendpractice.com)
+
+11.More free resources for developers.
+- [Free For Developers](https://free-for.dev/#/)
+- [Zero To Mastery Resources](https://zerotomastery.io/resources/)
