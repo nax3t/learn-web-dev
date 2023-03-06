@@ -59,14 +59,16 @@ Here is an outline of topics (resources included) one can learn to get their fir
    - Travis CI is a popular continuous integration service.
    - Heroku is a popular platform for deploying web applications.
  
-10.Practicing what you've learned. & Beginner project ideas.
-- [Github Repo of Project Ideas](https://github.com/florinpop17/app-ideas)
-- [Coding Game](https://www.codingame.com)
-- [Exercism](https://exercism.org)
-- [Frontend Project Challanges](https://devchallenges.io)
-- [Real world challenges from companies](https://github.com/felipefialho/frontend-challenges)
-- [Frontend Practice](https://www.frontendpractice.com)
+10. Practice what you've learned & Beginner project ideas.
 
-11.More free resources for developers.
-- [Free For Developers](https://free-for.dev/#/)
-- [Zero To Mastery Resources](https://zerotomastery.io/resources/)
+    - [Github Repo of Project Ideas](https://github.com/florinpop17/app-ideas)
+    - [Coding Game](https://www.codingame.com)
+    - [Exercism](https://exercism.org)
+    - [Frontend Project Challanges](https://devchallenges.io)
+    - [Real world challenges from companies](https://github.com/felipefialho/frontend-challenges)
+    - [Frontend Practice](https://www.frontendpractice.com)
+
+11. Miscellaneous resources for developers.
+
+    - [Free For Developers](https://free-for.dev/#/)
+    - [Zero To Mastery Resources](https://zerotomastery.io/resources/)
