@@ -53,8 +53,8 @@ Here is an outline of topics (resources included) one can learn to get their fir
 6. Database Management - Most web applications require a database to store and manage data.
 
    - [PostgreSQL is a popular open-source relational database](https://www.postgresql.org/)
-    - [PostgreSQL Tutorial](https://www.postgresqltutorial.com/)
-    - [PostgreSQL Tutorials & Other Resources](https://www.postgresql.org/docs/online-resources/)
+        - [PostgreSQL Tutorial](https://www.postgresqltutorial.com/)
+        - [PostgreSQL Tutorials & Other Resources](https://www.postgresql.org/docs/online-resources/)
    - [Supabase is a popular open-source Postgres database](https://supabase.io/)
    - [MongoDB is a popular NoSQL database](https://www.mongodb.com/atlas/database)
 
