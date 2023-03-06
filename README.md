@@ -22,7 +22,7 @@ Here is an outline of topics (resources included) one can learn to get their fir
 
    - Eloquent JavaScript by Marijn Haverbeke is a well-regarded introduction to JavaScript.
    - FreeCodeCamp has a comprehensive JavaScript curriculum with interactive exercises and projects.
-   - [The Modern Javascript](https://javascript.info)
+   - [The Modern Javascript Tutorial](https://javascript.info)
 
 3. Responsive Design - With the increasing use of mobile devices, web developers need to be able to create websites that look good and function well on a variety of screen sizes.
 
