@@ -87,6 +87,9 @@ Here is an outline of topics (resources included) one can learn to get their fir
     - [Frontend Practice](https://www.frontendpractice.com)
 
 11. Miscellaneous resources for developers.
-
+    - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
+    - [roadmap.sh Developer Roadmaps](https://roadmap.sh/)
+        - [roadmap.sh GitHub Repo](https://github.com/kamranahmedse/developer-roadmap)
+    - [freeCodeCamp.org's open-source codebase and curriculum](https://github.com/freeCodeCamp/freeCodeCamp)
     - [Free For Developers](https://free-for.dev/#/)
     - [Zero To Mastery Resources](https://zerotomastery.io/resources/)
